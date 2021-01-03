@@ -1,0 +1,11 @@
+.option {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.option > p {
+  margin-left: 15px;
+  color: gray;
+  font-weight: 500;
+}
